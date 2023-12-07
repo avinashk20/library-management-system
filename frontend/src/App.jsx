@@ -19,7 +19,6 @@ const book = {
 };
 
 const App = () => {
-  const role = "admin";
   const router = createBrowserRouter([
     {
       path: "/login",
@@ -31,7 +30,7 @@ const App = () => {
     },
     {
       path: "/",
-      element: <RouteLayout role={role} />,
+      element: <RouteLayout />,
       children: [
         { path: "catalogue", element: <Catalogue /> },
         { path: "add-book", element: <BookForm /> },

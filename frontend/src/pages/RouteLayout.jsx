@@ -57,9 +57,9 @@ function generateNavLinks(routes) {
 }
 
 const profileImg =
-  "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg";
-const userName = "Mark Manson";
-const role = "admin";
+  "https://cdn-icons-png.flaticon.com/128/10412/10412383.png";
+const userName = "Admin";
+const role = "user";
 
 const RouteLayout = () => {
   const navbarRef = useRef();
