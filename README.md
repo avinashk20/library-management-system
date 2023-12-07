@@ -21,6 +21,13 @@ Library Management System, a web application built with React
 ### Book Page
 ![Book Page](/screenshots/book_page.png)
 
+### Setup
+- Clone the repository: `git clone https://github.com/your-username/library-management-system.git`
+- `cd library-management-system`
+- `npm install`
+- `npm run dev`
+
+
 ## Features
 
 - User authentication (signup and login)
