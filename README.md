@@ -3,12 +3,6 @@ Library Management System, a web application built with React and Tailwind CSS
 
 ## Screenshots
 
-### Signup Page
-![Signup Page](/screenshots/signup_page.png)
-
-### Login Page
-![Login Page](/screenshots/login_page.png)
-
 ### User Home
 ![User Home](/screenshots/user_home.png)
 
@@ -20,6 +14,14 @@ Library Management System, a web application built with React and Tailwind CSS
 
 ### Book Page
 ![Book Page](/screenshots/book_page.png)
+
+### Signup Page
+![Signup Page](/screenshots/signup_page.png)
+
+### Login Page
+![Login Page](/screenshots/login_page.png)
+
+
 
 ### Setup
 - Clone the repository: `git clone https://github.com/your-username/library-management-system.git`
