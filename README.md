@@ -1,5 +1,5 @@
 # Library Management System
-Library Management System, a web application built with React
+Library Management System, a web application built with React and Tailwind CSS
 
 ## Screenshots
 
