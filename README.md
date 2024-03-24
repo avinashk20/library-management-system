@@ -25,7 +25,7 @@ Library Management System, a web application built with React and Tailwind CSS
 
 ### Setup
 - Clone the repository: `git clone https://github.com/your-username/library-management-system.git`
-- `cd library-management-system`
+- `cd library-management-system/frontend`
 - `npm install`
 - `npm run dev`
 
